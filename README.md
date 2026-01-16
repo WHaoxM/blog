@@ -30,7 +30,7 @@
 
 ## 🍥 搭建指南
 
-1. 首先，访问 [LearnData 项目页面](https://github.com/rockbenben/LearnData)，然后点击页面右上角的「Use this template」按钮。在弹出的页面中选择「Create a new repository」以创建一个基于此模板的新仓库。
+1. 首先，访问 [LearnHub 项目页面](https://github.com/whaoxm/blog)，然后点击页面右上角的「Use this template」按钮。在弹出的页面中选择「Create a new repository」以创建一个基于此模板的新仓库。
 
    ![](https://img.newzone.top/2022-08-10-19-32-05.png?imageMogr2/format/webp)
 
@@ -44,7 +44,7 @@
 
    ![](https://img.newzone.top/2023-03-14-04-04-52.gif?imageMogr2/format/webp)
 
-4. 接下来，返回「Settings」页面，修改 `Repository name` 为 `你的用户名.github.io`。例如，如果你的仓库链接是 `https://github.com/xxx/LearnData`，那么 `xxx` 就是你的 GitHub 用户名。若该名称已被其他项目使用，系统会显示红色错误提示。此时，你可以选择任意其他名称，例如 LearnData，部署页面路径将变为 `你的用户名.github.io/LearnData`。如果页面样式显示不正常，可能需要设置子域名，具体方法可以参考页面底部的[常见问题 - 网页显示异常](#网页显示异常)。
+4. 接下来，返回「Settings」页面，修改 `Repository name` 为 `你的用户名.github.io`。例如，如果你的仓库链接是 `https://github.com/xxx/LearnHub`，那么 `xxx` 就是你的 GitHub 用户名。若该名称已被其他项目使用，系统会显示红色错误提示。此时，你可以选择任意其他名称，例如 LearnHub，部署页面路径将变为 `你的用户名.github.io/LearnData`。如果页面样式显示不正常，可能需要设置子域名，具体方法可以参考页面底部的[常见问题 - 网页显示异常](#网页显示异常)。
 
    ![](https://img.newzone.top/20180505202201.png?imageMogr2/format/webp)
 
